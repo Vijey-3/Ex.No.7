@@ -1,7 +1,7 @@
 # Exno.7-Develop a prompt-based application tailored to their personal needs, fostering creativity and practical problem-solving skills while leveraging the capabilities of large language models.
 
-# Date:
-# Register no.
+# Date: 25/10/2025
+# Register no.: 212223040239
 # Aim: To develop a prompt-based application using ChatGPT - To demonstrate how to create a prompt-based application to organize daily tasks, showing the progression from simple to more advanced prompt designs and their corresponding outputs.
 
 #AI Tools Required: 
@@ -10,7 +10,7 @@
 # Explanation: 
 Prompt:
 "Design a personal productivity assistant that can help manage daily tasks, schedule reminders, suggest wellness tips, and answer general queries. The assistant should interact using natural language and be adaptable to the user’s changing preferences over time."
-Procedure:
+# Procedure:
 1. Define the core requirements of a personal productivity assistant.
 2. Identify and construct appropriate prompts for each task using an LLM (e.g., ChatGPT).
 3. Simulate natural user interaction through a simple interface or command-line system.
@@ -29,6 +29,10 @@ o Notify user of overlapping appointments or free time slots.
 3. Wellness Tips Generator:
 o Suggest daily wellness advice (hydration, exercise, screen-time breaks).
 o Adapt suggestions based on past user preferences and responses.
+
+# Output:
+<img width="1129" height="906" alt="image" src="https://github.com/user-attachments/assets/90b96f10-3923-4be7-a5c8-1d3f101b1459" />
+
 
 
 
