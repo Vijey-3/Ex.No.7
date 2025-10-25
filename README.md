@@ -8,6 +8,7 @@ To develop a prompt-based application using ChatGPT - To demonstrate how to crea
 
 # AI Tools Required: 
 Chatgpt
+
 Lovable
 
 # Explanation: 
