@@ -7,7 +7,8 @@
 To develop a prompt-based application using ChatGPT - To demonstrate how to create a prompt-based application to organize daily tasks, showing the progression from simple to more advanced prompt designs and their corresponding outputs.
 
 # AI Tools Required: 
-
+Chatgpt
+Lovable
 
 # Explanation: 
 Prompt:
